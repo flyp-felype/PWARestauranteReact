@@ -1,0 +1,32 @@
+
+.header{
+    position: fixed;
+    z-index: 9999;
+    width: 100%
+}
+
+.logo{
+   align-self: center
+}
+
+.hamburguer{
+    margin-top: 1rem
+}
+
+.line-hamburguer{
+    width: 2rem;
+    height: 0.2rem;
+    background-color: #FFFFFF;
+    margin-bottom: 0.3rem;
+}
+
+.line-hamburguer-middle{
+    width: 1.7rem;
+    height: 0.2rem;
+    background-color: #FFFFFF;
+    margin-bottom: 0.3rem;
+}
+
+.Banner img{
+    filter: brightness(43%)
+}
